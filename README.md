@@ -1,4 +1,7 @@
 # 🎮 Unity Prototype - Object Slicer
+
+[Try the prototype online](https://play.unity.com/en/games/f048c43d-c838-474f-b5a1-1850cf027c19/ball-slicer)
+
 This repo is the result of the final prototype for the Unity [Create With Code Course](https://learn.unity.com/course/create-with-code).
 Unity Create With Code is an official course from Unity, where you learn to program your own projects from scratch in C#.
 
